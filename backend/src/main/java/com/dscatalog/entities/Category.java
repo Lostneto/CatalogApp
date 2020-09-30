@@ -1,4 +1,4 @@
-package com.dscatalog.dscatalog.entities;
+package com.dscatalog.entities;
 
 import java.io.Serializable;
 
